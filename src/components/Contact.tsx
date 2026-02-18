@@ -21,7 +21,7 @@ const contactNodes = [
     icon: Phone,
     label: "Direct Line",
     value: "+52 56 5558 2075",
-    href: "https://wa.me/525555582075",
+    href: "https://wa.me/525655582075",
     id: "COMM_03"
   }
 ];
